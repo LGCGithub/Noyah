@@ -1,11 +1,8 @@
 import discord
-import os
 import numpy as np
-
 from PIL import Image, ImageOps, ImageFilter
 import requests
 import io
-import shutil
 
 import cv2
 from scipy.interpolate import UnivariateSpline
